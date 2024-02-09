@@ -12,10 +12,6 @@ cp .env.example .env
 ```
 composer install && npm run install && npm run dev
 ```
-- Install NPM
-```
-
-```
 - Run Migration
 ```
 php artisan migrate
